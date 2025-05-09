@@ -12,7 +12,7 @@ while(arr.length>1)
 		arr.sort((a,b)=>a-b)
 		
 	}
-	return arr;
+	return ans;
   
 }
 
